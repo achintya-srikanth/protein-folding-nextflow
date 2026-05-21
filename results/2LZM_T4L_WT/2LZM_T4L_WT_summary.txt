@@ -1,0 +1,6 @@
+Summary of models for 2LZM_T4L_WT:
+- 2LZM_T4L_WT_alphafold_result.pdb
+- 2LZM_T4L_WT_esmfold_result.pdb
+- 2LZM_T4L_WT_omegafold_result.pdb
+- 2LZM_T4L_WT_rosettafold_result.pdb
+Total models generated: 4

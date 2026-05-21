@@ -1,0 +1,10 @@
+{
+    "calculated_mutation_index": 6,
+    "global_rmsd": 0.4353,
+    "mutation_site_local_rmsd": 0.5397,
+    "active_site_deviations": {},
+    "wild_type_site_plddt": 83.84,
+    "mutant_type_site_plddt": 90.87,
+    "delta_plddt": -7.03,
+    "final_classification": "Neutral Variant"
+}

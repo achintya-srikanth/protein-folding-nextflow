@@ -1,0 +1,6 @@
+Summary of models for 3E7Y_Insulin_A:
+- 3E7Y_Insulin_A_alphafold_result.pdb
+- 3E7Y_Insulin_A_esmfold_result.pdb
+- 3E7Y_Insulin_A_omegafold_result.pdb
+- 3E7Y_Insulin_A_rosettafold_result.pdb
+Total models generated: 4

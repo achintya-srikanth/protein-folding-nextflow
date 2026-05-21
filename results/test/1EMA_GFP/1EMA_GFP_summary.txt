@@ -1,0 +1,6 @@
+Summary of models for 1EMA_GFP:
+- 1EMA_GFP_alphafold_result.pdb
+- 1EMA_GFP_esmfold_result.pdb
+- 1EMA_GFP_omegafold_result.pdb
+- 1EMA_GFP_rosettafold_result.pdb
+Total models generated: 4

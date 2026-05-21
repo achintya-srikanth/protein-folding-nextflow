@@ -1,0 +1,53 @@
+# Nextflow work directory
+work/
+
+# Nextflow logs
+.nextflow/
+.nextflow.log*
+
+# Results directory (generated outputs)
+
+# Configuration with sensitive data
+nextflow.config
+nextflow.config.local
+.env
+*.env
+
+# Python environment and dependencies
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Temporary files
+*.tmp
+*.bak
+*.backup
+*.temp

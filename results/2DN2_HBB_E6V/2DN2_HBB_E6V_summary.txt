@@ -1,0 +1,6 @@
+Summary of models for 2DN2_HBB_E6V:
+- 2DN2_HBB_E6V_alphafold_result.pdb
+- 2DN2_HBB_E6V_esmfold_result.pdb
+- 2DN2_HBB_E6V_omegafold_result.pdb
+- 2DN2_HBB_E6V_rosettafold_result.pdb
+Total models generated: 4

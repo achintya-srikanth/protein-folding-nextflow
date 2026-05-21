@@ -1,0 +1,110 @@
+[
+    {
+        "pdb_id": "1BTL",
+        "model": "alphafold",
+        "wt_path": "/mnt/c/Users/reyme/Downloads/protein-folding/results/1BTL_TEM1_WT/1BTL_TEM1_WT_alphafold_result.pdb",
+        "mt_path": "/mnt/c/Users/reyme/Downloads/protein-folding/results/1BTL_TEM1_E166A/1BTL_TEM1_E166A_alphafold_result.pdb",
+        "meta_id": "1BTL_TEM1_E166A_alphafold",
+        "wt_id": "1BTL_TEM1_WT",
+        "mt_id": "1BTL_TEM1_E166A"
+    },
+    {
+        "pdb_id": "1BTL",
+        "model": "esmfold",
+        "wt_path": "/mnt/c/Users/reyme/Downloads/protein-folding/results/1BTL_TEM1_WT/1BTL_TEM1_WT_esmfold_result.pdb",
+        "mt_path": "/mnt/c/Users/reyme/Downloads/protein-folding/results/1BTL_TEM1_E166A/1BTL_TEM1_E166A_esmfold_result.pdb",
+        "meta_id": "1BTL_TEM1_E166A_esmfold",
+        "wt_id": "1BTL_TEM1_WT",
+        "mt_id": "1BTL_TEM1_E166A"
+    },
+    {
+        "pdb_id": "1BTL",
+        "model": "omegafold",
+        "wt_path": "/mnt/c/Users/reyme/Downloads/protein-folding/results/1BTL_TEM1_WT/1BTL_TEM1_WT_omegafold_result.pdb",
+        "mt_path": "/mnt/c/Users/reyme/Downloads/protein-folding/results/1BTL_TEM1_E166A/1BTL_TEM1_E166A_omegafold_result.pdb",
+        "meta_id": "1BTL_TEM1_E166A_omegafold",
+        "wt_id": "1BTL_TEM1_WT",
+        "mt_id": "1BTL_TEM1_E166A"
+    },
+    {
+        "pdb_id": "1BTL",
+        "model": "rosettafold",
+        "wt_path": "/mnt/c/Users/reyme/Downloads/protein-folding/results/1BTL_TEM1_WT/1BTL_TEM1_WT_rosettafold_result.pdb",
+        "mt_path": "/mnt/c/Users/reyme/Downloads/protein-folding/results/1BTL_TEM1_E166A/1BTL_TEM1_E166A_rosettafold_result.pdb",
+        "meta_id": "1BTL_TEM1_E166A_rosettafold",
+        "wt_id": "1BTL_TEM1_WT",
+        "mt_id": "1BTL_TEM1_E166A"
+    },
+    {
+        "pdb_id": "2DN2",
+        "model": "alphafold",
+        "wt_path": "/mnt/c/Users/reyme/Downloads/protein-folding/results/2DN2_HBB_WT/2DN2_HBB_WT_alphafold_result.pdb",
+        "mt_path": "/mnt/c/Users/reyme/Downloads/protein-folding/results/2DN2_HBB_E6V/2DN2_HBB_E6V_alphafold_result.pdb",
+        "meta_id": "2DN2_HBB_E6V_alphafold",
+        "wt_id": "2DN2_HBB_WT",
+        "mt_id": "2DN2_HBB_E6V"
+    },
+    {
+        "pdb_id": "2DN2",
+        "model": "esmfold",
+        "wt_path": "/mnt/c/Users/reyme/Downloads/protein-folding/results/2DN2_HBB_WT/2DN2_HBB_WT_esmfold_result.pdb",
+        "mt_path": "/mnt/c/Users/reyme/Downloads/protein-folding/results/2DN2_HBB_E6V/2DN2_HBB_E6V_esmfold_result.pdb",
+        "meta_id": "2DN2_HBB_E6V_esmfold",
+        "wt_id": "2DN2_HBB_WT",
+        "mt_id": "2DN2_HBB_E6V"
+    },
+    {
+        "pdb_id": "2DN2",
+        "model": "omegafold",
+        "wt_path": "/mnt/c/Users/reyme/Downloads/protein-folding/results/2DN2_HBB_WT/2DN2_HBB_WT_omegafold_result.pdb",
+        "mt_path": "/mnt/c/Users/reyme/Downloads/protein-folding/results/2DN2_HBB_E6V/2DN2_HBB_E6V_omegafold_result.pdb",
+        "meta_id": "2DN2_HBB_E6V_omegafold",
+        "wt_id": "2DN2_HBB_WT",
+        "mt_id": "2DN2_HBB_E6V"
+    },
+    {
+        "pdb_id": "2DN2",
+        "model": "rosettafold",
+        "wt_path": "/mnt/c/Users/reyme/Downloads/protein-folding/results/2DN2_HBB_WT/2DN2_HBB_WT_rosettafold_result.pdb",
+        "mt_path": "/mnt/c/Users/reyme/Downloads/protein-folding/results/2DN2_HBB_E6V/2DN2_HBB_E6V_rosettafold_result.pdb",
+        "meta_id": "2DN2_HBB_E6V_rosettafold",
+        "wt_id": "2DN2_HBB_WT",
+        "mt_id": "2DN2_HBB_E6V"
+    },
+    {
+        "pdb_id": "2LZM",
+        "model": "alphafold",
+        "wt_path": "/mnt/c/Users/reyme/Downloads/protein-folding/results/2LZM_T4L_WT/2LZM_T4L_WT_alphafold_result.pdb",
+        "mt_path": "/mnt/c/Users/reyme/Downloads/protein-folding/results/2LZM_T4L_M99A/2LZM_T4L_M99A_alphafold_result.pdb",
+        "meta_id": "2LZM_T4L_M99A_alphafold",
+        "wt_id": "2LZM_T4L_WT",
+        "mt_id": "2LZM_T4L_M99A"
+    },
+    {
+        "pdb_id": "2LZM",
+        "model": "esmfold",
+        "wt_path": "/mnt/c/Users/reyme/Downloads/protein-folding/results/2LZM_T4L_WT/2LZM_T4L_WT_esmfold_result.pdb",
+        "mt_path": "/mnt/c/Users/reyme/Downloads/protein-folding/results/2LZM_T4L_M99A/2LZM_T4L_M99A_esmfold_result.pdb",
+        "meta_id": "2LZM_T4L_M99A_esmfold",
+        "wt_id": "2LZM_T4L_WT",
+        "mt_id": "2LZM_T4L_M99A"
+    },
+    {
+        "pdb_id": "2LZM",
+        "model": "omegafold",
+        "wt_path": "/mnt/c/Users/reyme/Downloads/protein-folding/results/2LZM_T4L_WT/2LZM_T4L_WT_omegafold_result.pdb",
+        "mt_path": "/mnt/c/Users/reyme/Downloads/protein-folding/results/2LZM_T4L_M99A/2LZM_T4L_M99A_omegafold_result.pdb",
+        "meta_id": "2LZM_T4L_M99A_omegafold",
+        "wt_id": "2LZM_T4L_WT",
+        "mt_id": "2LZM_T4L_M99A"
+    },
+    {
+        "pdb_id": "2LZM",
+        "model": "rosettafold",
+        "wt_path": "/mnt/c/Users/reyme/Downloads/protein-folding/results/2LZM_T4L_WT/2LZM_T4L_WT_rosettafold_result.pdb",
+        "mt_path": "/mnt/c/Users/reyme/Downloads/protein-folding/results/2LZM_T4L_M99A/2LZM_T4L_M99A_rosettafold_result.pdb",
+        "meta_id": "2LZM_T4L_M99A_rosettafold",
+        "wt_id": "2LZM_T4L_WT",
+        "mt_id": "2LZM_T4L_M99A"
+    }
+]

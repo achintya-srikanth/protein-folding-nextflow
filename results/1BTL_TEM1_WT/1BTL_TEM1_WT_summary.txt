@@ -1,0 +1,6 @@
+Summary of models for 1BTL_TEM1_WT:
+- 1BTL_TEM1_WT_alphafold_result.pdb
+- 1BTL_TEM1_WT_esmfold_result.pdb
+- 1BTL_TEM1_WT_omegafold_result.pdb
+- 1BTL_TEM1_WT_rosettafold_result.pdb
+Total models generated: 4

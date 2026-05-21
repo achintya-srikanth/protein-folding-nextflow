@@ -1,0 +1,6 @@
+Summary of models for 2DN2_HBB_WT:
+- 2DN2_HBB_WT_alphafold_result.pdb
+- 2DN2_HBB_WT_esmfold_result.pdb
+- 2DN2_HBB_WT_omegafold_result.pdb
+- 2DN2_HBB_WT_rosettafold_result.pdb
+Total models generated: 4

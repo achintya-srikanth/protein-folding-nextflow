@@ -1,0 +1,14 @@
+docker.enabled = true
+
+process {
+    container = 'protein-folding:latest'
+    withLabel: 'gpu' {
+        containerOptions = '--gpus all'
+    }
+    cpus = 6
+    memory = '6 GB'
+}
+
+env {
+    neurosnap_api_key = 'your_api_key_here'
+}

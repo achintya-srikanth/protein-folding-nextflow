@@ -1,0 +1,6 @@
+Summary of models for 1UBQ_Ubiquitin:
+- 1UBQ_Ubiquitin_alphafold_result.pdb
+- 1UBQ_Ubiquitin_esmfold_result.pdb
+- 1UBQ_Ubiquitin_omegafold_result.pdb
+- 1UBQ_Ubiquitin_rosettafold_result.pdb
+Total models generated: 4

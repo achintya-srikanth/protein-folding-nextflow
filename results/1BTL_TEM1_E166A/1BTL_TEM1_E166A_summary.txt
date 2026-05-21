@@ -1,0 +1,6 @@
+Summary of models for 1BTL_TEM1_E166A:
+- 1BTL_TEM1_E166A_alphafold_result.pdb
+- 1BTL_TEM1_E166A_esmfold_result.pdb
+- 1BTL_TEM1_E166A_omegafold_result.pdb
+- 1BTL_TEM1_E166A_rosettafold_result.pdb
+Total models generated: 4
